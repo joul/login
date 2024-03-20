@@ -1,3 +1,5 @@
+Instructions for creating database
+
 <!-- creating new table: -->
 
 CREATE TABLE comments(
